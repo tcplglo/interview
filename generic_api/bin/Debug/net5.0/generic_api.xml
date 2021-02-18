@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>generic_api</name>
+    </assembly>
+    <members>
+        <member name="M:generic_api.Controllers.Auth.Refesh(System.String,System.String)">
+            <param name="accessToken">A valid token. Can be Expired.</param>
+        </member>
+    </members>
+</doc>

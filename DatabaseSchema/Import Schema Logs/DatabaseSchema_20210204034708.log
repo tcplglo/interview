@@ -1,0 +1,84 @@
+04/02/2021 15:47:08	This log contains information about the import schema operation into project 'DatabaseSchema' on computer 'DESKTOP-AJ3EJQ2' by user 'Glo'.
+04/02/2021 15:47:08	Import of database schema has started.
+04/02/2021 15:47:12	Gathering database credentials
+04/02/2021 15:47:12	Gathering database options
+04/02/2021 15:47:12	Gathering users
+04/02/2021 15:47:12	Gathering roles
+04/02/2021 15:47:12	Gathering application roles
+04/02/2021 15:47:12	Gathering role memberships
+04/02/2021 15:47:12	Gathering filegroups
+04/02/2021 15:47:12	Gathering full-text catalogs
+04/02/2021 15:47:12	Gathering assemblies
+04/02/2021 15:47:12	Gathering certificates
+04/02/2021 15:47:12	Gathering asymmetric keys
+04/02/2021 15:47:12	Gathering symmetric keys
+04/02/2021 15:47:12	Gathering encrypted symmetric keys
+04/02/2021 15:47:12	Gathering schemas
+04/02/2021 15:47:12	Gathering XML schema collections
+04/02/2021 15:47:12	Gathering user-defined data types
+04/02/2021 15:47:12	Gathering user-defined types
+04/02/2021 15:47:12	Gathering table types
+04/02/2021 15:47:12	Gathering unique keys for table types
+04/02/2021 15:47:12	Gathering primary keys for table types
+04/02/2021 15:47:12	Gathering indexes for table types
+04/02/2021 15:47:12	Gathering check constraints for table types
+04/02/2021 15:47:12	Gathering default constraints for table types
+04/02/2021 15:47:12	Gathering partition functions
+04/02/2021 15:47:12	Gathering partition schemes
+04/02/2021 15:47:12	Gathering functions
+04/02/2021 15:47:12	Gathering encrypted functions
+04/02/2021 15:47:12	Gathering aggregates
+04/02/2021 15:47:12	Gathering procedures
+04/02/2021 15:47:12	Gathering encrypted procedures
+04/02/2021 15:47:12	Gathering tables
+04/02/2021 15:47:12	Gathering primary keys
+04/02/2021 15:47:12	Gathering unique constraints
+04/02/2021 15:47:12	Gathering foreign keys
+04/02/2021 15:47:12	Gathering default constraints
+04/02/2021 15:47:12	Gathering check constraints
+04/02/2021 15:47:12	Gathering views
+04/02/2021 15:47:12	Gathering encrypted views
+04/02/2021 15:47:12	Gathering indexes
+04/02/2021 15:47:12	Gathering statistics
+04/02/2021 15:47:12	Gathering full-text index stoplists
+04/02/2021 15:47:12	Gathering search property lists
+04/02/2021 15:47:12	Gathering search properties
+04/02/2021 15:47:12	Gathering full-text indexes
+04/02/2021 15:47:12	Gathering column store indexes
+04/02/2021 15:47:12	Gathering spatial indexes
+04/02/2021 15:47:12	Gathering XML indexes
+04/02/2021 15:47:12	Gathering Selective XML indexes
+04/02/2021 15:47:12	Gathering encrypted triggers
+04/02/2021 15:47:12	Gathering triggers
+04/02/2021 15:47:12	Gathering encrypted and clr ddl triggers
+04/02/2021 15:47:12	Gathering ddl triggers
+04/02/2021 15:47:12	Gathering synonyms
+04/02/2021 15:47:12	Gathering defaults
+04/02/2021 15:47:12	Gathering data constraint uddt bindings
+04/02/2021 15:47:12	Gathering rules
+04/02/2021 15:47:12	Gathering data constraint uddt bindings
+04/02/2021 15:47:12	Gathering message types
+04/02/2021 15:47:12	Gathering queues
+04/02/2021 15:47:12	Gathering contracts
+04/02/2021 15:47:12	Gathering services
+04/02/2021 15:47:12	Gathering event notifications
+04/02/2021 15:47:12	Gathering remote service bindings
+04/02/2021 15:47:12	Gathering broker priorities
+04/02/2021 15:47:12	Gathering signatures
+04/02/2021 15:47:12	Gathering data compression options
+04/02/2021 15:47:12	Gathering sequence types
+04/02/2021 15:47:12	Gathering security policies
+04/02/2021 15:47:12	Gather column encryption keys
+04/02/2021 15:47:12	Gathering column master keys
+04/02/2021 15:47:12	Gathering external data sources
+04/02/2021 15:47:12	Gathering external file formats
+04/02/2021 15:47:12	Gathering external tables
+04/02/2021 15:47:12	Gathering extended properties
+04/02/2021 15:47:12	Gathering credentials
+04/02/2021 15:47:12	Gathering logins
+04/02/2021 15:47:12	Gathering server audits
+04/02/2021 15:47:12	Scanning project for duplicate elements
+04/02/2021 15:47:12	Finished duplicate element processing
+04/02/2021 15:47:13	Finished importing database.
+04/02/2021 15:47:13	A summary of the import was saved to the following location: C:\Users\Glo\Desktop\TCPL\Interviews\Interview_Tests\DatabaseSchema\Import Schema Logs\DatabaseSchema_20210204034708.log
+04/02/2021 15:47:13	Click Finish to continue...

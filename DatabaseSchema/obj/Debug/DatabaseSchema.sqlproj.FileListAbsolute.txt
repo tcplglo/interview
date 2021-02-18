@@ -1,0 +1,6 @@
+C:\Users\Glo\Desktop\TCPL\Interviews\Interview_Tests\DatabaseSchema\bin\Debug\DatabaseSchema.dacpac
+C:\Users\Glo\Desktop\TCPL\Interviews\Interview_Tests\DatabaseSchema\bin\Debug\DatabaseSchema.dll
+C:\Users\Glo\Desktop\TCPL\Interviews\Interview_Tests\DatabaseSchema\bin\Debug\DatabaseSchema.pdb
+C:\Users\Glo\Desktop\TCPL\Interviews\Interview_Tests\DatabaseSchema\obj\Debug\DatabaseSchema.sqlprojAssemblyReference.cache
+C:\Users\Glo\Desktop\TCPL\Interviews\Interview_Tests\DatabaseSchema\obj\Debug\DatabaseSchema.dll
+C:\Users\Glo\Desktop\TCPL\Interviews\Interview_Tests\DatabaseSchema\obj\Debug\DatabaseSchema.pdb
